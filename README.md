@@ -15,7 +15,7 @@ Questions within DMP Part 1:
 
 5. For each dataset in question 2: describe how much data (approximately) will be created during the course of the project (MB, GB, TB, etc). 
 
-Following are the answers to the prior questions. 
+Following are the answers to the prior questions:
 
 1.) The research questions that I am trying to answer involves using radiation spectroscopy data. 
 My field of research is nuclear engineering and within this field, spectroscopy data is quite common.
