@@ -91,6 +91,10 @@ all the necessary information about how the raw binary data was acquired.
 
 # Storage and security
 
+2. The data is currently stored in many locations. Specifically, my project which is the subset of a larger project has the data stored on a work laptop, on an external SSD, and stored as a zipped file on a project share online that is remotely accessed. The data is stored as raw binary data that is either zipped up in a compact form or unzipped (~900GB). The data on the laptop and external drive will remain for an unknown period of time. The reason for this is because the data is stored on a government laptop that is contigent upon the researcher continuing work post-graduation with the laboratory. However, the data stored on the shared drive online will remain for 5 years after the project finalization. The project is set to finish in August of 2020 therefore the data will survive till August of 2025 approximately. 
+
+3. The analyzed data are all results of processing the binary data. This processing is easily redone therefore it's not important to backup the analyzed data. As stated above, the primary data (binary) is zipped and stored in three different locations so there are three copies. The binary data remains unchanged so it does not need to be continually backed up. The results of analysis are stored on the laptop and important results are backed up on the project share for interpretation. The network shared drive is housed and managed entirely by the pacific northwest national laboratory (PNNL). It is backed up on internal servers housed on campus. The longevity of this approach is mentioned in 2. above. 
+
 # Access and data sharing
 
 # Archiving and preservation
