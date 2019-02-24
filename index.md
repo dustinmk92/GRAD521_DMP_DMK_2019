@@ -67,6 +67,32 @@ the aforementioned requirement to not share data or results that applies to the 
 
 # Data standards and metadata
 
+1.) For radiation spectroscopy there are certain metadata standards surrounding
+data acquisition conditions. The metadata allows readers to be able to replicate
+what the researchers show in their results. For example, the source-detector 
+distance is typically given, the source activity, acquisition time, the detector 
+performance in terms of resolution, efficiency and energy range. These standards
+are typical in radiation spectroscopy within the field of nuclear science and engineering.
+Some software will have these types of metadata input and will record them in
+a 'Readme.txt' file with specifics on the data acquisition.
+ 
+2.) The data documentation plan I constructed consisted of recording the source-
+detector distance, the claimed source enrichment, and pictures of the setup. I
+did not have direct access to knowing the source activity as it is not extremely
+applicable to my measurements. However, the detector performance is very-well documented 
+in previous research that is recorded in the forms of plots/figures, tables, and online
+transcripts on a shared project page. Other forms of data that are generated in my 
+research include simulation results and processed data. The simulations have an
+input file that is commented so the reader can understand what each line represents 
+and the output files are large and automatically generated through MCNP, the simulation
+program. Metadata standards are therefore good for some of my data management, but 
+does not fit for others. 
+
+3.) Attached is the data summary created for the data about my thesis. The data has 5 
+columns consisting of the sample ID, the date/time of acquisition start, the enrichment, 
+the source-detector distance in inches, and lastly the acquisition time. This includes
+all the necessary information about how the raw binary data was acquired. 
+
 # Storage and security
 
 # Access and data sharing
