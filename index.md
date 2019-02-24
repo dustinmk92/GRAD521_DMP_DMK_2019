@@ -1,7 +1,5 @@
 # Data description
 
-DMP Part 1: By Dustin Kasparek
-
 1.) The research questions that I am trying to answer involves using radiation spectroscopy data. 
 My field of research is nuclear engineering and within this field, spectroscopy data is quite common.
 It is essentially histogram data where counts are measured and binned versus energy. I process the 
@@ -37,8 +35,6 @@ collected in the binary form is approximately 1 TB. The remaining data in the me
 combines for less than 10 GB. 
 
 # Roles and responsibilities
-
-DMP Part 2: Roles & Responsibilities
 
 1. There are many forms of data that are created in my project. These can roughly be separated into groups 
 such as raw binary data, metadata in the form of processing codes, literature, presentation documentation, 
